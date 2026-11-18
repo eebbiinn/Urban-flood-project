@@ -1,0 +1,263 @@
+{
+  "classification": {
+    "overall_accuracy": 0.964,
+    "f1_impervious": 0.909,
+    "impervious_area_pct": 18.1
+  },
+  "weights": {
+    "imperviousness": 0.35,
+    "low_elevation": 0.25,
+    "flat_slope": 0.15,
+    "near_drainage": 0.25
+  },
+  "validation": {
+    "AUC": 0.97,
+    "obs_flood_pixels_in_high_zone_pct": 94.1,
+    "high_zone_area_pct": 15.0
+  },
+  "wards": [
+    {
+      "ward": 1,
+      "imperv_pct": 0.0,
+      "C": 0.15,
+      "area_ha": 36.0,
+      "Q_m3s": 0.9,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 0.0
+    },
+    {
+      "ward": 2,
+      "imperv_pct": 0.0,
+      "C": 0.15,
+      "area_ha": 36.0,
+      "Q_m3s": 0.9,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 0.0
+    },
+    {
+      "ward": 3,
+      "imperv_pct": 0.0,
+      "C": 0.15,
+      "area_ha": 36.0,
+      "Q_m3s": 0.9,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 0.0
+    },
+    {
+      "ward": 4,
+      "imperv_pct": 0.0,
+      "C": 0.15,
+      "area_ha": 36.0,
+      "Q_m3s": 0.9,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 0.0
+    },
+    {
+      "ward": 5,
+      "imperv_pct": 0.0,
+      "C": 0.15,
+      "area_ha": 36.0,
+      "Q_m3s": 0.9,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 0.0
+    },
+    {
+      "ward": 6,
+      "imperv_pct": 0.0,
+      "C": 0.15,
+      "area_ha": 36.0,
+      "Q_m3s": 0.9,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 0.0
+    },
+    {
+      "ward": 7,
+      "imperv_pct": 5.9,
+      "C": 0.2,
+      "area_ha": 36.0,
+      "Q_m3s": 1.18,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 31.0
+    },
+    {
+      "ward": 8,
+      "imperv_pct": 43.1,
+      "C": 0.49,
+      "area_ha": 36.0,
+      "Q_m3s": 2.97,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 230.0
+    },
+    {
+      "ward": 9,
+      "imperv_pct": 8.2,
+      "C": 0.22,
+      "area_ha": 36.0,
+      "Q_m3s": 1.3,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 44.0
+    },
+    {
+      "ward": 10,
+      "imperv_pct": 0.0,
+      "C": 0.15,
+      "area_ha": 36.0,
+      "Q_m3s": 0.9,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 0.0
+    },
+    {
+      "ward": 11,
+      "imperv_pct": 0.0,
+      "C": 0.15,
+      "area_ha": 36.0,
+      "Q_m3s": 0.9,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 0.0
+    },
+    {
+      "ward": 12,
+      "imperv_pct": 56.8,
+      "C": 0.6,
+      "area_ha": 36.0,
+      "Q_m3s": 3.63,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 303.0
+    },
+    {
+      "ward": 13,
+      "imperv_pct": 87.4,
+      "C": 0.85,
+      "area_ha": 36.0,
+      "Q_m3s": 5.1,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 467.0
+    },
+    {
+      "ward": 14,
+      "imperv_pct": 44.4,
+      "C": 0.51,
+      "area_ha": 36.0,
+      "Q_m3s": 3.03,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 237.0
+    },
+    {
+      "ward": 15,
+      "imperv_pct": 0.0,
+      "C": 0.15,
+      "area_ha": 36.0,
+      "Q_m3s": 0.9,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 0.0
+    },
+    {
+      "ward": 16,
+      "imperv_pct": 17.4,
+      "C": 0.29,
+      "area_ha": 36.0,
+      "Q_m3s": 1.74,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 93.0
+    },
+    {
+      "ward": 17,
+      "imperv_pct": 96.4,
+      "C": 0.92,
+      "area_ha": 36.0,
+      "Q_m3s": 5.53,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 514.0
+    },
+    {
+      "ward": 18,
+      "imperv_pct": 60.4,
+      "C": 0.63,
+      "area_ha": 36.0,
+      "Q_m3s": 3.8,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 322.0
+    },
+    {
+      "ward": 19,
+      "imperv_pct": 6.6,
+      "C": 0.2,
+      "area_ha": 36.0,
+      "Q_m3s": 1.22,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 36.0
+    },
+    {
+      "ward": 20,
+      "imperv_pct": 0.0,
+      "C": 0.15,
+      "area_ha": 36.0,
+      "Q_m3s": 0.9,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 0.0
+    },
+    {
+      "ward": 21,
+      "imperv_pct": 4.5,
+      "C": 0.19,
+      "area_ha": 36.0,
+      "Q_m3s": 1.12,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 24.0
+    },
+    {
+      "ward": 22,
+      "imperv_pct": 20.4,
+      "C": 0.31,
+      "area_ha": 36.0,
+      "Q_m3s": 1.88,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 109.0
+    },
+    {
+      "ward": 23,
+      "imperv_pct": 0.0,
+      "C": 0.15,
+      "area_ha": 36.0,
+      "Q_m3s": 0.9,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 0.0
+    },
+    {
+      "ward": 24,
+      "imperv_pct": 0.0,
+      "C": 0.15,
+      "area_ha": 36.0,
+      "Q_m3s": 0.9,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 0.0
+    },
+    {
+      "ward": 25,
+      "imperv_pct": 0.0,
+      "C": 0.15,
+      "area_ha": 36.0,
+      "Q_m3s": 0.9,
+      "Q_baseline_m3s": 0.9,
+      "increase_pct": 0.0
+    }
+  ],
+  "mitigation_scenarios": [
+    {
+      "reduction_pct": 0,
+      "mean_C": 0.294
+    },
+    {
+      "reduction_pct": 10,
+      "mean_C": 0.28
+    },
+    {
+      "reduction_pct": 20,
+      "mean_C": 0.266
+    },
+    {
+      "reduction_pct": 30,
+      "mean_C": 0.251
+    }
+  ]
+}
